@@ -6,10 +6,8 @@ I have only decided recently to get active on Git.
 
 Be back later to fix this mess.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/698543119356002384?hideDiscrim=true)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/698543119356002384?hideDiscrim=true)
              
-                
-
 
 <!--
 **katsie03/katsie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
