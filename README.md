@@ -4,7 +4,8 @@ I have only decided recently to get active on Git.
 
 Be back later to fix this mess.
 
-<img src="https://lanyard-profile-readme.vercel.app/api/698543119356002384" align="right"/>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/698543119356002384
+                            )](https://discord.com/users/698543119356002384)
                 
 
 
