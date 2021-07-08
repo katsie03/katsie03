@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
+
+I have only decided recently to get active on Git.
+
+Be back later to fix this mess.
+
+<img src="https://lanyard-profile-readme.vercel.app/api/698543119356002384" align="right"/>
+                
+
 
 <!--
 **katsie03/katsie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
