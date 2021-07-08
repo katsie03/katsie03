@@ -6,8 +6,8 @@ I have only decided recently to get active on Git.
 
 Be back later to fix this mess.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/698543119356002384?hideDiscrim=true
-                            )]
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/698543119356002384?hideDiscrim=true)
+             
                 
 
 
