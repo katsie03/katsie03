@@ -2,7 +2,7 @@
 
 I have only decided recently to get active on Git.
 
-<a href="https://new.katsie.xyz" target="_blank">Check the site!</a>
+<a href="https://new.katsie.co.uk" target="_blank">Check the site!</a>
 
 Be back later to fix this mess.
 
